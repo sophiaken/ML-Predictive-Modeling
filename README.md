@@ -16,7 +16,8 @@ Linear Regression
 
 
 
-## Airbnb price prediction
+## Insurance
+
 
 
 
